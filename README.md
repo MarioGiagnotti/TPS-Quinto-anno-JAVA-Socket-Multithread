@@ -1,4 +1,4 @@
-# TPS Quinto anno JAVA Socket
+# TPS Quinto anno JAVA Socket Multithread
 Questo è un semplice repository basato su **JAVA SOCKET**.
 
 ## Tecnologie:
