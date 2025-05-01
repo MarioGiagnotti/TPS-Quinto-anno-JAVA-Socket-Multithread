@@ -11,7 +11,7 @@ Questo è un semplice repository basato su **JAVA SOCKET**.
 
 1. Clona il repository:
 
-git clone https://github.com/MarioGiagnotti/TPS-Quinto-anno-JAVA-Socket.git
+git clone https://github.com/MarioGiagnotti/TPS-Quinto-anno-JAVA-Socket-Multithread.git
 
 2. Come testare i contenuti
      - Aprire la cartella in Visual Studio Code
