@@ -5,8 +5,6 @@ Questo è un semplice repository basato su **JAVA SOCKET**.
 - **JAVA**
 
 ## Contenuti:
-- **Applicazioni con Socket TCP in JAVA**
-- **Applicazioni con Socket UDP in JAVA**
 - **Applicazioni con Socket TCP Multithread in JAVA**
 
 ## Come scaricare i contenuti:
